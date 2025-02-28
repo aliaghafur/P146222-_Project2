@@ -20,3 +20,8 @@ Our main focus is explore and analyse the following key areas that can help us u
 
 3. Cancellation:
    Does the room assigned to guests, number of days before actual arrival of guests, market segments and type of deposits give an impact to the booking cancellation?
+
+### Conclusion
+In conclusion, by analysing customer preference, Average Daily Rate (ADR) and relationship of various factors with cancellation, both hotels can gain some valuable insights to optimize operation, increase profitability and also help creat a positive business impact. 
+
+By continuously monitoring these key areas and adapting strategies based on the insights gained, hotels can enhance the guest experience, optimize revenue, and achieve sustainable growth. Other than that, further analysis is required to help the business maintain and improve their revenue in the futures.
