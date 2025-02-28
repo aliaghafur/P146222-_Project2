@@ -1,3 +1,4 @@
+### Introduction
 This dataset contains information about hotel bookings for two hotel groups from July, 2015 until August, 2017. This dataset contains 3024 observations (rows) and 32 variables. This dataset has been taken from github, known as Hotel Data Analysis and has been written by Shridhar Kamathe. The datasets are from three csv files (Data_2015, Data_2016, Data_2017).
 
 Github Link: https://github.com/shridharkamathe/Hotel-Data-Analysis/tree/main/Hotel%20Data%20Analysis
