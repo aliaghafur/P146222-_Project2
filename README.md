@@ -9,15 +9,14 @@ In this dataset contains two types of hotel: City Hotels and Resort Hotels. In m
 ### Purpose of Analysis
 Our main focus is explore and analyse the following key areas that can help us uncover significant loopholes and gain valuable insights to drive a profitable hotel business.:
 
-Customer Preferred:
+1. Customer Preferred:
+   To analyse the most popular room types book by guests.
+   To determine the most distribution channel.
+   To identify the most frequent type of meal booked by customers.
+   To determine whether guest prefer to stay during weekdays or weekends.
 
-To analyse the most popular room types book by guests.
-To determine the most distribution channel.
-To identify the most frequent type of meal booked by customers.
-To determine whether guest prefer to stay during weekdays or weekends.
-Average Daily Rate (ADR):
+2. Average Daily Rate (ADR):
+   To understand how well the hotel is meeting customer expectations in terms of room type.
 
-To understand how well the hotel is meeting customer expectations in terms of room type.
-Cancellation:
-
-Does the room assigned to guests, number of days before actual arrival of guests, market segments and type of deposits give an impact to the booking cancellation?
+3. Cancellation:
+   Does the room assigned to guests, number of days before actual arrival of guests, market segments and type of deposits give an impact to the booking cancellation?
