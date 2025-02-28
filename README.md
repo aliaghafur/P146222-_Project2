@@ -5,3 +5,19 @@ Github Link: https://github.com/shridharkamathe/Hotel-Data-Analysis/tree/main/Ho
 By analysing this dataset, we can provide valuable insights to assist and guide related businessess to improve the business, increase their profitability and optimize their business operations. Average daily rate (ADR) is one of the most important for hotel analysis , which can help the hotel increase their revenue. The higher the ADR means that more revenue per occupied room significantly boosts the hotel's overall profitability.
 
 In this dataset contains two types of hotel: City Hotels and Resort Hotels. In my opinion, these two types differ significantly in terms of their location, primary focus of business and availables amenities. For example, City Hotels typically located in urban centers, close to shopping areas and easily accessible by public transport. In contrast, Resort Hotels are often situated in scenic locations, such as near to beaches, mountains, or lakes.
+
+### Purpose of Analysis
+Our main focus is explore and analyse the following key areas that can help us uncover significant loopholes and gain valuable insights to drive a profitable hotel business.:
+
+Customer Preferred:
+
+To analyse the most popular room types book by guests.
+To determine the most distribution channel.
+To identify the most frequent type of meal booked by customers.
+To determine whether guest prefer to stay during weekdays or weekends.
+Average Daily Rate (ADR):
+
+To understand how well the hotel is meeting customer expectations in terms of room type.
+Cancellation:
+
+Does the room assigned to guests, number of days before actual arrival of guests, market segments and type of deposits give an impact to the booking cancellation?
